@@ -3,19 +3,14 @@ body{
     margin: 0;
     height: 100%vh;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    /* background-color: #ebebe0; */
     background-color: #e0e0d1;
     font-family: Crete Round;
 }
 .full-box{
     margin: 0px 90px;
 }
-/* .div{
-    display: inline-block;
-} */
 
 .login-container{
-    /* display: flex; */
     background-color: white;
     padding: 40px;
     border-radius: 25px;
@@ -97,7 +92,7 @@ body{
   font-size: 25px;
 }
 
-/*----Toggle b/w login signup----*/
+
 .tab-content{
     text-align: 'center'
 }
